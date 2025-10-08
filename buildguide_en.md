@@ -161,7 +161,7 @@ Note the orientation of the housings, the small side circular cutout on the hous
 
 ### 3: Prop the assembly of step 2 and insert the EC Sliders
 
-The assembly of step 2 needs to be propped up to allow the insertion of the EC sliders into the housings in a "free fall" manner, this will later ensure the proper alignment of the domes and springs.
+The assembly of step 2 needs to be propped up to allow the insertion of the EC sliders into the housings in a "free fall" manner (such that the slider drops in freely), this will later ensure the proper alignment of the domes and springs.
 
 After that, insert the EC sliders into the housings. If you want to have a quieter typing experience, you can also insert the silencing rings at this stage before you insert the sliders.
 
@@ -199,6 +199,10 @@ At this point grab hold of the assembly with one hand firmly compress the plate 
 Start with the 4 corners screws, then proceed with the remaining screws. Once the 4 corners are secured, you can proceed to add the remaining screws.
 
 ![ec-pcb-assembly](./img/ec/ec-pcb-assembly-play.png)
+
+Here is a GIF showing the process of compressing the assembly and inserting the screws.
+
+![ec-pcb-assembly-gif](./img/ec/ec-pcb-assembly.gif)
 
 ### 7: Attach the Backplate to the Assembly of 6
 
@@ -277,11 +281,15 @@ Furthermore, while this will require a custom case and more DIY work, you can us
 
 ### Layout and Switch Type Selection
 
+#### Layout Selection
+
 Once you completed the assembly, you **MUST** select the layout and switch type you used. By default the board is configured to EC mode.
 
 Using [VIA](https://www.usevia.app/) you can easily configure the layout and key assignments.
 
-For what concerns the switch type, you can chose that by selecting ether "MX" or "EC" in the "Switch Type" dropdown menu, under the "Hybrid Tools", "Actuation"tab.
+#### Switch Type Selection
+
+In order to select the switch type you will select the appropriate option, `MX` or `EC`, from the `Switch Type` dropdown menu under `Hybrid Tools` -> `Actuation` tab.
 
 ![via-switch-type](./img/via-switch-type.png)
 
@@ -295,7 +303,7 @@ Please refer to the following guide for the calibration process: [EC PCB Calibra
 
 ## Important Note
 
-**DO NOT CONNECT OR DISCONNECT THE TRRS CABLE WHILE THE USB CABLE IS CONNECTED!**
+**<u>DO NOT CONNECT OR DISCONNECT THE TRRS CABLE WHILE THE USB CABLE IS CONNECTED!</u>**
 
 If the TRRS cable is plugged or unplugged while the USB cable is connected, the keyboard's microcontroller may be damaged.
 Before plugging or unplugging the TRRS cable, always ensure that the USB cable is disconnected.
