@@ -2,8 +2,8 @@
 
 This is the build guide for the ***鍵盤で GO!*** (けんばんでGO!, Kenban de GO!).
 
-![Kenban-de-go](/img/kenban_de_go.png)
-![Kenban-de-go-subtitle](/img/kenban_de_go_subtitle.png)
+![Kenban-de-go](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/kenban_de_go.png)
+![Kenban-de-go-subtitle](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/kenban_de_go_subtitle.png)
 
 ## Assembly Types
 
@@ -55,23 +55,23 @@ The screw holes for the spacers are marked by small circular plated through hole
 
 Based on the layout you are building, 3x6 or 3x5, you will need to choose the appropriate holes for the spacers as shown in the images below (some locations are shared regardless of the layout).
 
-![mx-spacer-plate-locations](/img/mx/mx-spacer-plate-locations.png)
+![mx-spacer-plate-locations](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-spacer-plate-locations.png)
 
-![mx-spacer-plate](/img/mx/mx-spacer-plate.png)
+![mx-spacer-plate](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-spacer-plate.png)
 
 ### 2: Attach switches to Plate and PCB
 
 Insert the switches on 4 opposite corners into the switch plate, ensuring they are securely positioned.
 
-![mx-switch-corners-plate](/img/mx/mx-switch-corners-plate.png)
+![mx-switch-corners-plate](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-switch-corners-plate.png)
 
 Align the switch plate with the PCB and firmly press them together until the switches are fully seated in the PCB.
 
-![mx-switch-corners-plate-pcb](/img/mx/mx-switch-corners-plate-pcb.png)
+![mx-switch-corners-plate-pcb](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-switch-corners-plate-pcb.png)
 
 After that, populate the remaining switches into the switch plate and PCB.
 
-![mx-switch-plate-pcb](/img/mx/mx-switch-plate-pcb.png)
+![mx-switch-plate-pcb](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-switch-plate-pcb.png)
 
 ### 3: Attach the Backplate to the Assembly of 1 and 2
 
@@ -79,13 +79,13 @@ Flip the assembly of step 2 upside down, and align the backplate with the assemb
 
 Secure the backplate to the assembly using M2x5mm screws in the specular locations of the spacers you attached in step 1.
 
-![mx-backplate-assembly](/img/mx/mx-backplate-assembly.png)
+![mx-backplate-assembly](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-backplate-assembly.png)
 
 ### 4: Attach rubber feets
 
 Affix the rubber feet to the designated corners on the Backplate.
 
-![mx-rubber-feets](/img/mx/mx-rubber-feets.png)
+![mx-rubber-feets](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/mx/mx-rubber-feets.png)
 
 ### 5: Attach keycaps
 
@@ -131,11 +131,11 @@ If you are using Topre or OEM-Style housings, you will need to modify them to fi
 
 Modify the housings by cutting the indicated part as shown in the image below.
 
-![ec-housing-modification](/img/ec/ec-housing-modification.png)
+![ec-housing-modification](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-housing-modification.png)
 
 You will need to do this modification for all the housings you are going to use in the following market locations:
 
-![ec-housing-modification-locations](/img/ec/ec-housing-modification-locations.png)
+![ec-housing-modification-locations](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-housing-modification-locations.png)
 
 Dynacap housings do not require any modifications since they are designed with sufficient clearance.
 
@@ -149,19 +149,19 @@ The screw holes for the spacers are marked by small circular plated through hole
 
 Based on the layout you are building, 3x6 or 3x5, you will need to choose the appropriate holes for the spacers as shown in the images below (some locations are shared regardless of the layout).
 
-![ec-spacer-plate-locations](/img/ec/ec-spacer-plate-locations.png)
+![ec-spacer-plate-locations](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-spacer-plate-locations.png)
 
-![ec-spacer-plate](/img/ec/ec-spacer-plate.png)
+![ec-spacer-plate](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-spacer-plate.png)
 
 ### 2: Attach the EC housings to Plate
 
 Flip the assembly of step 1 upside down and insert the EC housings in all locations of switch plate, ensuring they are securely positioned.
 
-![ec-housings-plate](/img/ec/ec-housings-plate.png)
+![ec-housings-plate](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-housings-plate.png)
 
 Note the orientation of the housings, the small side circular cutout on the housings should be on the left and right sides like in the image below.
 
-![ec-housings-plate-orientation](/img/ec/ec-housings-plate-orientation.png)
+![ec-housings-plate-orientation](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-housings-plate-orientation.png)
 
 ### 3: Prop the assembly of step 2 and insert the EC Sliders
 
@@ -169,27 +169,27 @@ The assembly of step 2 needs to be propped up to allow the insertion of the EC s
 
 After that, insert the EC sliders into the housings. If you want to have a quieter typing experience, you can also insert the silencing rings at this stage before you insert the sliders.
 
-![ec-sliders](/img/ec/ec-sliders.png)
+![ec-sliders](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-sliders.png)
 
 ### 4: Lay down the domes
 
 You will need to cut the domes for correct alignment because of the layout. The cut part is indicated in the image below (here we assume a 1x4 dome strip, if you are using a different configuration please adjust accordingly).
 
-![ec-domes-cut](/img/ec/ec-domes-cut.png)
+![ec-domes-cut](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-domes-cut.png)
 
 After that, lay down the domes on the housings, ensuring they are properly aligned with the housing notches.
 
-![ec-domes](/img/ec/ec-domes.png)
+![ec-domes](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-domes.png)
 
 ### 5: Lay down the springs
 
 Place the springs on top of the domes, ensuring they are centered and not tilted
 
-![ec-springs](/img/ec/ec-springs.png)
+![ec-springs](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-springs.png)
 
 The following image shows highlighted the springs to make them more visible. Notice that the springs are not tilted in the side view.
 
-![ec-springs-profile](/img/ec/ec-springs-profile.png)
+![ec-springs-profile](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-springs-profile.png)
 
 ### 6: Lay down the PCB on the assembly
 
@@ -202,23 +202,23 @@ At this point grab hold of the assembly with one hand firmly compress the plate 
 
 Start with the 4 corners screws, then proceed with the remaining screws. Once the 4 corners are secured, you can proceed to add the remaining screws.
 
-![ec-pcb-assembly](/img/ec/ec-pcb-assembly-play.png)
+![ec-pcb-assembly](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly-play.png)
 
 Here is a GIF showing the process of compressing the assembly and inserting the screws.
 
-![ec-pcb-assembly-gif](/img/ec/ec-pcb-assembly.gif)
+![ec-pcb-assembly-gif](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif)
 
 ### 7: Attach the Backplate to the Assembly of 6
 
 Flip the assembly of step 6 upside down, and align the backplate with the assembly, then secure the backplate to the assembly using M2x5mm screws in the specular locations of the spacers you attached in step 1.
 
-![ec-backplate-assembly](/img/ec/ec-backplate-assembly.png)
+![ec-backplate-assembly](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-backplate-assembly.png)
 
 ### 8: Attach rubber feets
 
 Affix the rubber feet to the designated corners on the Backplate.
 
-![ec-rubber-feets](/img/ec/ec-rubber-feets.png)
+![ec-rubber-feets](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-rubber-feets.png)
 
 ### 9: Attach keycaps
 
@@ -237,11 +237,11 @@ The outermost column of the switch plate needs to be snapped off.
 
 **NOTE**: This modification is irreversible, so please proceed with caution.
 
-![3x5-layout-plate-snap](/img/3x5-layout-plate-snap.png)
+![3x5-layout-plate-snap](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/3x5-layout-plate-snap.png)
 
 Before snapping the PCB, make sure to cut the traces connecting to the switches in that column using a knife or a cutter. This is to prevent any electrical issues after the modification.
 
-![3x5-layout-pcb-cut](/img/3x5-layout-pcb-cut.png)
+![3x5-layout-pcb-cut](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/3x5-layout-pcb-cut.png)
 
 After cutting the traces, you can snap off the outermost column of the PCB.
 
@@ -252,9 +252,9 @@ After cutting the traces, you can snap off the outermost column of the PCB.
 
 If a rotary encoder is used, it can be attached instead of a switch _either or both_ of the following locations. In that case, soldering from the back side is required.
 
-![rotary-encoder-location-pcb-top](/img/rotary-encoder-location-pcb-top.png)
+![rotary-encoder-location-pcb-top](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/rotary-encoder-location-pcb-top.png)
 
-![rotary-encoder-location-pcb-bottom](/img/rotary-encoder-location-pcb-bottom.png)
+![rotary-encoder-location-pcb-bottom](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/rotary-encoder-location-pcb-bottom.png)
 
 </details>
 
@@ -263,19 +263,19 @@ If a rotary encoder is used, it can be attached instead of a switch _either or b
 
 If an OLED is used, it can be attached instead of switches in this location. In that case, soldering from the back side is required.
 
-![oled-location-pcb](/img/oled-location-pcb.png)
+![oled-location-pcb](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/oled-location-pcb.png)
 
 You will also have to snap off part of the plate to make space for the OLED.
 
-![plate-snap-oled](/img/plate-snap-oled.png)
+![plate-snap-oled](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/plate-snap-oled.png)
 
 We suggest you to utilize a female pin header (1x4) for easy replacement of the OLED in the future.
 
-![oled-header-top](/img/oled-header-top.png)
+![oled-header-top](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/oled-header-top.png)
 
-![oled-header-bottom](/img/oled-header-bottom.png)
+![oled-header-bottom](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/oled-header-bottom.png)
 
-![oled](/img/oled.png)
+![oled](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/oled.png)
 
 Furthermore, while this will require a custom case and more DIY work, you can use the switches/encoders AND the OLED together by bringing the 4 pins of the OLED out to the side of the case through flying wires.
 
@@ -299,7 +299,7 @@ Using [VIA](https://www.usevia.app/) you can easily configure the layout and key
 
 In order to select the switch type you will select the appropriate option, `MX` or `EC`, from the `Switch Type` dropdown menu under `Hybrid Tools` -> `Actuation` tab.
 
-![via-switch-type](/img/via-switch-type.png)
+![via-switch-type](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/via-switch-type.png)
 
 </details>
 
