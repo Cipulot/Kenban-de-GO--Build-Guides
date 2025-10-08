@@ -269,7 +269,7 @@ Once you completed the assembly, you **MUST** select the layout and switch type 
 
 Using [VIA](https://www.usevia.app/) you can easily configure the layout and key assignments.
 
-For what concerns the switch type, you can chose that by selecting ether "MX" or "EC" in the "Switch Type"dropdown menu, under the "Hybrid Tools" tab.
+For what concerns the switch type, you can chose that by selecting ether "MX" or "EC" in the "Switch Type" dropdown menu, under the "Hybrid Tools", "Actuation"tab.
 
 ![via-switch-type](./img/via-switch-type.png)
 
