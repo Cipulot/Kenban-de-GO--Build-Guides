@@ -47,6 +47,12 @@ _Please pay attention to the instructions and notes to avoid any damage to the c
 
 Utilizing the M2x5mm screws, affix the spacers to the designated holes on the switch plate.
 
+The screw holes for the spacers are marked by small circular plated through holes on the plate.
+
+Based on the layout you are building, 3x6 or 3x5, you will need to choose the appropriate holes for the spacers as shown in the images below (some locations are shared regardless of the layout).
+
+![mx-spacer-plate-locations](./img/mx/mx-spacer-plate-locations.png)
+
 ![mx-spacer-plate](./img/mx/mx-spacer-plate.png)
 
 ### 2: Attach switches to Plate and PCB
@@ -67,7 +73,7 @@ After that, populate the remaining switches into the switch plate and PCB.
 
 Flip the assembly of step 2 upside down, and align the backplate with the assembly.
 
-Secure the backplate to the assembly using M2x5mm screws.
+Secure the backplate to the assembly using M2x5mm screws in the specular locations of the spacers you attached in step 1.
 
 ![mx-backplate-assembly](./img/mx/mx-backplate-assembly.png)
 
@@ -135,6 +141,12 @@ Dynacap housings do not require any modifications since they are designed with s
 
 Utilizing the M2x5mm screws, affix the spacers to the designated holes on the switch plate.
 
+The screw holes for the spacers are marked by small circular plated through holes on the plate.
+
+Based on the layout you are building, 3x6 or 3x5, you will need to choose the appropriate holes for the spacers as shown in the images below (some locations are shared regardless of the layout).
+
+![ec-spacer-plate-locations](./img/ec/ec-spacer-plate-locations.png)
+
 ![ec-spacer-plate](./img/ec/ec-spacer-plate.png)
 
 ### 2: Attach the EC housings to Plate
@@ -190,7 +202,7 @@ Start with the 4 corners screws, then proceed with the remaining screws. Once th
 
 ### 7: Attach the Backplate to the Assembly of 6
 
-Flip the assembly of step 6 upside down, and align the backplate with the assembly, then secure the backplate to the assembly using M2x5mm screws.
+Flip the assembly of step 6 upside down, and align the backplate with the assembly, then secure the backplate to the assembly using M2x5mm screws in the specular locations of the spacers you attached in step 1.
 
 ![ec-backplate-assembly](./img/ec/ec-backplate-assembly.png)
 
