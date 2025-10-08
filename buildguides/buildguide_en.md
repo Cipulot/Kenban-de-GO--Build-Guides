@@ -27,7 +27,7 @@ _Please pay attention to the instructions and notes to avoid any damage to the c
 ### Required
 
 | Name            | Count   | Remarks                                                     |
-| :-------------- | :------ | :---------------------------------------------------------- |
+|:-------------- |:------ |:---------------------------------------------------------- |
 | PCB             | 1 set   |                                                             |
 | Backplate       | 1 set   |                                                             |
 | MX Switch plate | 1 set   |                                                             |
@@ -42,7 +42,7 @@ _Please pay attention to the instructions and notes to avoid any damage to the c
 ### Optional
 
 | Name           | Count        | Remarks                                                                                                                                             |
-| :------------- | :----------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:------------- |:----------- |:-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Rotary Encoder | 0 - 4 pieces | compatible product of the rotary encoder EC12                                                                                                       |
 | OLED           | 0 - 2 pieces | 0.91" 128x32 OLED display module and headers (128x64 OLED supported but required different firmware and mounting differences to avoid interference) |
 
@@ -102,7 +102,7 @@ Place the keycaps onto the switches, ensuring they are firmly seated.
 ### Required
 
 | Name               | Count   | Remarks                                                                                                                                         |
-| :----------------- | :------ | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+|:----------------- |:------ |:---------------------------------------------------------------------------------------------------------------------------------------------- |
 | PCB                | 1 set   |                                                                                                                                                 |
 | Backplate          | 1 set   |                                                                                                                                                 |
 | EC Switch plate    | 1 set   |                                                                                                                                                 |
@@ -122,7 +122,7 @@ Place the keycaps onto the switches, ensuring they are firmly seated.
 ### Optional
 
 | Name           | Count        | Remarks                                                                                                                                             |
-| :------------- | :----------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:------------- |:----------- |:-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Rotary Encoder | 0 - 4 pieces | compatible product of the rotary encoder EC12                                                                                                       |
 | OLED           | 0 - 2 pieces | 0.91" 128x32 OLED display module and headers (128x64 OLED supported but required different firmware and mounting differences to avoid interference) |
 
