@@ -1,6 +1,6 @@
 # Build Guide
 
-This is the build guide for the **鍵盤で GO!** (Kenban de GO!).
+This is the build guide for the ***鍵盤で GO!*** (けんばんでGO!, Kenban de GO!).
 
 ![Kenban-de-go](./img/kenban_de_go.png)
 ![Kenban-de-go-subtitle](./img/kenban_de_go_subtitle.png)
