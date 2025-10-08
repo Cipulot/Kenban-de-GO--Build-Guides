@@ -3,12 +3,16 @@
 This is the build guide for the **鍵盤で GO!** (Kenban de GO!).
 
 ![Kenban-de-go](./img/kenban_de_go.png)
+![Kenban-de-go-subtitle](./img/kenban_de_go_subtitle.png)
 
 ## Assembly Types
 
-There are two types of assemblies available: MX Build and EC Build.
+There are three types of assemblies available:
+- MX Build
+- EC Build (OEM-Style Parts)
+- EC Build (Naevies Parts)
 
-Both the MX and EC builds showcased are the left-hand side. The right-hand side assembly is a mirror image of the left.
+All builds showcased are the left-hand side. The right-hand side assembly is a mirror image of the left.
 
 The build process showcased in this guide refers to the "FR4 Case" version.
 
@@ -281,17 +285,23 @@ Furthermore, while this will require a custom case and more DIY work, you can us
 
 ### Layout and Switch Type Selection
 
-#### Layout Selection
+<details>
+  <summary style="font-size:1.1em; font-weight:400;">Layout Selection</summary>
 
 Once you completed the assembly, you **MUST** select the layout and switch type you used. By default the board is configured to EC mode.
 
 Using [VIA](https://www.usevia.app/) you can easily configure the layout and key assignments.
 
-#### Switch Type Selection
+</details>
+
+<details>
+  <summary style="font-size:1.1em; font-weight:400;">Switch Type Selection</summary>
 
 In order to select the switch type you will select the appropriate option, `MX` or `EC`, from the `Switch Type` dropdown menu under `Hybrid Tools` -> `Actuation` tab.
 
 ![via-switch-type](./img/via-switch-type.png)
+
+</details>
 
 ### EC Calibration
 
