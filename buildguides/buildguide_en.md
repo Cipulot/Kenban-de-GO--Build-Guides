@@ -1,6 +1,6 @@
 # Build Guide
 
-This is the build guide for the ***鍵盤で GO!*** (けんばんでGO!, Kenban de GO!).
+This is the build guide for the **_鍵盤で GO!_** (けんばんで GO!, Kenban de GO!).
 
 ![Kenban-de-go](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/kenban_de_go.png)
 ![Kenban-de-go-subtitle](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/kenban_de_go_subtitle.png)
@@ -8,6 +8,7 @@ This is the build guide for the ***鍵盤で GO!*** (けんばんでGO!, Kenban 
 ## Assembly Types
 
 There are three types of assemblies available:
+
 - MX Build
 - EC Build (OEM-Style Parts)
 - EC Build (Naevies Parts)
