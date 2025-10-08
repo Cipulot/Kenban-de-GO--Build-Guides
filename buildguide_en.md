@@ -317,3 +317,7 @@ Please refer to the following guide for the calibration process: [EC PCB Calibra
 
 If the TRRS cable is plugged or unplugged while the USB cable is connected, the keyboard's microcontroller may be damaged.
 Before plugging or unplugging the TRRS cable, always ensure that the USB cable is disconnected.
+
+## Get in Touch
+
+If you have any questions or need assistance, feel free to reach out to us through my [Discord server](https://discord.gg/YKZSqHG8bJ) or professional website [Cipulot PCB Design](https://www.lusvsolutions.com/contact).
