@@ -207,7 +207,9 @@ _这是一个精细的步骤，请谨慎并冷静地进行！_
 
 这里有一个 GIF 展示了压缩组件和插入螺丝的过程。
 
-![ec-pcb-assembly-gif](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif" alt="EC PCB assembly" style="display:block; margin:0 auto;" loading="eager" />
+</p>
 
 ### 7: 将背板安装到步骤 6 的组件上
 

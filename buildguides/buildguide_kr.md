@@ -207,7 +207,9 @@ PCB를 조립체와 조심스럽게 정렬하여 PCB가 조립체와 올바르�
 
 여기 조립체를 압축하고 나사를 삽입하는 과정을 보여주는 GIF가 있습니다.
 
-![ec-pcb-assembly-gif](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif" alt="EC PCB assembly" style="display:block; margin:0 auto;" loading="eager" />
+</p>
 
 ### 7: 백플레이트를 6단계 조립체에 부착
 

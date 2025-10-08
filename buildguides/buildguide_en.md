@@ -207,7 +207,9 @@ Start with the 4 corners screws, then proceed with the remaining screws. Once th
 
 Here is a GIF showing the process of compressing the assembly and inserting the screws.
 
-![ec-pcb-assembly-gif](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif" alt="EC PCB assembly" style="display:block; margin:0 auto;" loading="eager" />
+</p>
 
 ### 7: Attach the Backplate to the Assembly of 6
 

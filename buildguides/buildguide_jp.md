@@ -207,7 +207,9 @@ PCB をアセンブリと慎重に位置合わせし、PCB がアセンブリと
 
 ここに、アセンブリを圧縮しネジを挿入するプロセスを示す GIF があります。
 
-![ec-pcb-assembly-gif](https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cipulot/Kenban-de-GO-Build-Guides/refs/heads/main/img/ec/ec-pcb-assembly.gif" alt="EC PCB assembly" style="display:block; margin:0 auto;" loading="eager" />
+</p>
 
 ### 7: バックプレートをステップ 6 のアセンブリに取り付ける
 
